@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Placement-Angular.Server", "Placement-Angular.Server\Placement-Angular.Server.csproj", "{63BCDFCF-2811-4D26-AE0B-FA074268847D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "placement-angular.client", "placement-angular.client\placement-angular.client.esproj", "{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BCDFCF-2811-4D26-AE0B-FA074268847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BCDFCF-2811-4D26-AE0B-FA074268847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BCDFCF-2811-4D26-AE0B-FA074268847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BCDFCF-2811-4D26-AE0B-FA074268847D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E03ED7-B08D-40E5-A1D1-8960AD3C582A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E084D723-A1C6-4BBE-AE79-93513D6033E8}
+	EndGlobalSection
+EndGlobal
